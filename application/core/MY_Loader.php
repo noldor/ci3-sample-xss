@@ -11,7 +11,6 @@ require_once(APPPATH . 'third_party/output_escaper/src/Symfony/Component/OutputE
 
 class MY_Loader extends CI_Loader
 {
-/*
     public function view($view, $vars = array(), $return = FALSE)
     {
         return parent::view(
@@ -20,5 +19,4 @@ class MY_Loader extends CI_Loader
             $return
         );
     }
-*/
 }

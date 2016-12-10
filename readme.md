@@ -1,3 +1,9 @@
+ci3-sample-xss
+==============
+
+これはCodeIgniter3にOutputEscaperを適用するサンプルコードです。
+
+
 Output Escaper
 --------------
 
